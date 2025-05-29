@@ -16,6 +16,9 @@ Codul jocului este implementat folosind limbajul  și biblioteca grafică `pygam
 - ✅ **Mosteniri: minim o clasă de bază și 3 clase derivate din aceeași ierarhie**
 - ✅ **Funcții virtuale (pure)**
 - ✅ **STL**
+- ✅ **Utilizare c++ style casts**
+- ✅ **Clase/Functii template**
+- ✅ **Design patterns**
 - ✅ **Etc.**
 ---
 
