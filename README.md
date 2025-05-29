@@ -10,7 +10,7 @@ Mai departe vom incerca a crea o replica a faimosului joc arcade.
 
 ## 2. Descrierea îndeplinirii cerințelor cod
 
-Codul jocului este implementat folosind limbajul  și biblioteca grafică `pygame`. Mai jos sunt evidențiate principalele cerințe îndeplinite:
+Codul jocului este implementat folosind limbajul. Mai jos sunt evidențiate principalele cerințe îndeplinite:
 
 - ✅ **Separarea codului din clase în fișiere header (.h sau.hpp) și surse (.cpp)**
 - ✅ **Mosteniri: minim o clasă de bază și 3 clase derivate din aceeași ierarhie**
