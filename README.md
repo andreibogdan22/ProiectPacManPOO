@@ -3,7 +3,7 @@
 ## Overview
 This project is a **2D arcade-style maze chase game**, inspired by the classic 1980 arcade game released by Namco. The player controls a yellow, circular character that moves through a maze, collecting dots ("pellets") while avoiding patrolling enemies (ghosts).  
 
-Special items called **power pellets** temporarily turn enemies vulnerable, allowing the player to eat them for bonus points. The game combines **strategy, quick reflexes, and memorization of paths**, making it an engaging programming and gameplay challenge.
+The game combines **strategy, quick reflexes, and memorization of paths**, making it an engaging programming and gameplay challenge.
 
 This project is a **replica of the classic arcade game**, implemented to practice C++ programming concepts and game development techniques.
 
@@ -25,15 +25,13 @@ The game is implemented in **C++** and demonstrates the following programming co
 ## Technologies Used
 - **C++17** – Core programming language.  
 - **SFML (Simple and Fast Multimedia Library)** – Handles graphics, window management, and input.  
-- **STL** – Data structures and algorithm implementation.  
-- **Object-Oriented Programming** – Encapsulation, inheritance, polymorphism, and modular design.  
 
 ---
 
 ## Gameplay
-- Navigate the maze to collect all pellets while avoiding enemies.  
-- Collect power pellets to temporarily make enemies vulnerable and earn extra points.  
+- Navigate the maze to collect all pellets while avoiding enemies.    
 - The game features multiple **states** such as Main Menu, Running, Paused, and Game Over, handled through a **stack-based state management system**.  
 
 ---
+
 
