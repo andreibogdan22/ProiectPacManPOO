@@ -25,4 +25,15 @@ The game is implemented in **C++** and demonstrates the following programming co
 ## Technologies Used
 - **C++17** – Core programming language.  
 - **SFML (Simple and Fast Multimedia Library)** – Handles graphics, window management, and input.  
-- **STL** – Data struc
+- **STL** – Data structures and algorithm implementation.  
+- **Object-Oriented Programming** – Encapsulation, inheritance, polymorphism, and modular design.  
+
+---
+
+## Gameplay
+- Navigate the maze to collect all pellets while avoiding enemies.  
+- Collect power pellets to temporarily make enemies vulnerable and earn extra points.  
+- The game features multiple **states** such as Main Menu, Running, Paused, and Game Over, handled through a **stack-based state management system**.  
+
+---
+
