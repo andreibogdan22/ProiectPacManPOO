@@ -1,26 +1,28 @@
-# Proiect: Jocul Pac-Man
+# Maze Chase Game
 
-## 1. Descrierea jocului Pac-Man
+## Overview
+This project is a **2D arcade-style maze chase game**, inspired by the classic 1980 arcade game released by Namco. The player controls a yellow, circular character that moves through a maze, collecting dots ("pellets") while avoiding patrolling enemies (ghosts).  
 
-**Pac-Man** este un joc video arcade clasic lansat în anul 1980 de către compania japoneză Namco. Jucătorul controlează un personaj galben în formă de cerc, cu o gură care se deschide și se închide, numit Pac-Man. Scopul jocului este de a mânca toate punctele (numite "pellets") dintr-un labirint, evitând fantomele care patrulează prin acesta. Dacă Pac-Man este atins de o fantomă, pierde o viață. În colțurile labirintului se află puncte speciale (power pellets) care, atunci când sunt consumate, transformă temporar fantomele în ținte vulnerabile, oferind jucătorului oportunitatea de a le mânca pentru puncte suplimentare.
+Special items called **power pellets** temporarily turn enemies vulnerable, allowing the player to eat them for bonus points. The game combines **strategy, quick reflexes, and memorization of paths**, making it an engaging programming and gameplay challenge.
 
-Jocul combină elemente de strategie, viteză de reacție și memorare a traseelor, fiind considerat unul dintre cele mai influente jocuri video din toate timpurile.
+This project is a **replica of the classic arcade game**, implemented to practice C++ programming concepts and game development techniques.
 
-Mai departe vom incerca a crea o replica a faimosului joc arcade.
-
-## 2. Descrierea îndeplinirii cerințelor cod
-
-Codul jocului este implementat folosind limbajul. Mai jos sunt evidențiate principalele cerințe îndeplinite:
-
-- ✅ **Separarea codului din clase în fișiere header (.h sau.hpp) și surse (.cpp)**
-- ✅ **Mosteniri: minim o clasă de bază și 3 clase derivate din aceeași ierarhie**
-- ✅ **Funcții virtuale (pure)**
-- ✅ **STL**
-- ✅ **Utilizare c++ style casts**
-- ✅ **Clase/Functii template**
-- ✅ **Design patterns**
-- ✅ **Etc.**
 ---
 
-## 3. Bibliografie
-https://www.youtube.com/watch?v=xtZHJxYA6q8&list=PLiZZKL9HLmWMF8PlzvZu2WOC9kjs1zzhm
+## Features & Requirements Implemented
+The game is implemented in **C++** and demonstrates the following programming concepts:
+
+- ✅ **Code organization**: Separation of classes into header (.h/.hpp) and source (.cpp) files.  
+- ✅ **Inheritance**: At least one base class and three derived classes within the same hierarchy.  
+- ✅ **Virtual functions**: Including pure virtual functions.  
+- ✅ **Use of STL (Standard Template Library)** for data structures and algorithms.  
+- ✅ **C++ style casts**.  
+- ✅ **Template classes and functions**.  
+- ✅ **Design patterns** (applied where appropriate for modularity and scalability).  
+
+---
+
+## Technologies Used
+- **C++17** – Core programming language.  
+- **SFML (Simple and Fast Multimedia Library)** – Handles graphics, window management, and input.  
+- **STL** – Data struc
